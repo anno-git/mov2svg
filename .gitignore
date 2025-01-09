@@ -1,0 +1,9 @@
+
+.DS_Store
+/bin/data/bu
+*.png
+*.svg
+/bin/mov2svg.app
+/bin/mov2svgDebug.app
+/mov2svg.xcodeproj/xcuserdata
+/mov2svg.xcodeproj/project.xcworkspace/xcuserdata

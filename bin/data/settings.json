@@ -1,0 +1,7 @@
+{
+    "max_radius": 2000.0,
+    "min_radius": 0.0,
+    "scale": 0.25,
+    "simplify": 0.5,
+    "threshold": 127.0
+}
